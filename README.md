@@ -11,7 +11,7 @@ I am a motivated Computer Science student passionate about coding, problem-solvi
 ## 📬 Contact & Links
 - **Email:** kfaustincadas340@students.ecsu.edu  
 - **LinkedIn:** [linkedin.com/in/kayden-cadas](https://www.linkedin.com/in/kayden-cadas)  
-- **GitHub Portfolio:** [Soual-Spec.github.io](https://Soual-Spec.github.io)  
+- **GitHub Portfolio:** [Soual-Spec.github.io]([https://Soual-Spec.github.io](https://github.com/Soual-Spec/K-HomePage))  
 - **Location:** [Garwood, Nj]  
 
 ---
