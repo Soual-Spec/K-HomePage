@@ -8,10 +8,10 @@ I am a motivated Computer Science student passionate about coding, problem-solvi
 ---
 
 ## 📬 Contact & Links
-- **Email:** kayden.cadas@example.com  
+- **Email:** kfaustincadas340@students.ecsu.edu  
 - **LinkedIn:** [linkedin.com/in/kayden-cadas](https://www.linkedin.com/in/kayden-cadas)  
-- **GitHub Portfolio:** [kaydencadas.github.io](https://kaydencadas.github.io)  
-- **Location:** [City, State]  
+- **GitHub Portfolio:** [Soual-Spec.github.io](https://Soual-Spec.github.io)  
+- **Location:** [Garwood, Nj]  
 
 ---
 
@@ -49,30 +49,7 @@ I am a motivated Computer Science student passionate about coding, problem-solvi
 **Program Participation & Certifications**  
 - **Science Gateways Community Institute (SGCI/SGX3) Program:** Completed professional development curriculum including **Git/GitHub** and **Spring Boot**.  
 - **Courses Completed (Amigoscode):** Spring Boot for Beginners, Git & GitHub Fundamentals, Terminal, Bash & VIM Essentials  
-- **Design & Communication Training:** CANVA Design Skills, Slack Profile Setup & Professional Introduction  
-
-**Technical Research & Communication**  
-- Wrote detailed 2-page webinar reviews, including:  
-  - *Resource Providers of Science Gateways*  
-  - *Turn Your Data Portal into a Science Gateway With Globus Compute*  
-
----
-
-## 💼 Experience
-
-**February 2024 – August 2024 | Food Lion, Sales Associate**  
-- Quickly and accurately scanned groceries, ensuring correct pricing and efficient transaction processing.  
-- Maintained compliance with store policies and regulations.  
-- Collaborated with team members to maintain a clean and organized store environment.  
-
-**September 2024 – Current | Vike Nu Modeling Organization**  
-- Represented the troupe in various appearances, refining communication and presentation skills.  
-- Networked with photographers, designers, and industry professionals to explore opportunities.  
-
-**October 2025 – Current | MCSET Department Desk Assistant**  
-- Executed administrative and clerical tasks, including organizing mail and departmental documents.  
-- Provided front-line customer service to students, faculty, and visitors.  
-- Managed front desk operations, including multi-line phone support and scheduling appointments.  
+- **Design & Communication Training:** CANVA Design Skills, Slack Profile Setup & Professional Introduction      
 
 ---
 
