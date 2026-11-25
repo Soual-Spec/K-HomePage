@@ -4,65 +4,85 @@
   <meta charset="UTF-8">
   <title>Kayden Cadas | Portfolio</title>
   <style>
+    html { height: 100%; }
     body {
       font-family: Arial, sans-serif;
       max-width: 850px;
       margin: auto;
       padding: 20px;
       line-height: 1.6;
-      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
       min-height: 100vh;
-      color: #333;
+      color: #d6e4f7;
+      background-color: #0b0d2a;
+      background-image:
+        radial-gradient(ellipse 60% 40% at 15% 20%, #1a3a6e 0%, transparent 70%),
+        radial-gradient(ellipse 50% 35% at 80% 15%, #0d5c6e 0%, transparent 65%),
+        radial-gradient(ellipse 40% 30% at 55% 55%, #163566 0%, transparent 60%),
+        radial-gradient(ellipse 70% 50% at 30% 80%, #0e2a52 0%, transparent 70%),
+        radial-gradient(ellipse 35% 25% at 90% 70%, #0a4a60 0%, transparent 55%),
+        linear-gradient(170deg, #0d1b4b 0%, #0a1628 40%, #061020 100%);
     }
+    body::before {
+      content: '';
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+      background-image:
+        radial-gradient(1px 1px at 10% 8%, #e8d87a 0%, transparent 100%),
+        radial-gradient(1px 1px at 25% 18%, #fff 0%, transparent 100%),
+        radial-gradient(1px 1px at 42% 5%, #e8d87a 0%, transparent 100%),
+        radial-gradient(1px 1px at 60% 12%, #fff 0%, transparent 100%),
+        radial-gradient(1px 1px at 75% 3%, #e8d87a 0%, transparent 100%),
+        radial-gradient(1px 1px at 88% 22%, #fff 0%, transparent 100%),
+        radial-gradient(2px 2px at 33% 2%, #f5e88a 0%, transparent 100%),
+        radial-gradient(2px 2px at 82% 9%, #f5e88a 0%, transparent 100%),
+        radial-gradient(2px 2px at 15% 55%, #f5e88a 0%, transparent 100%),
+        radial-gradient(2px 2px at 65% 60%, #f5e88a 0%, transparent 100%);
+      z-index: 0;
+    }
+    body > * { position: relative; z-index: 1; }
     .center { text-align: center; }
     img {
       width: 200px;
       border-radius: 10px;
       margin-bottom: 15px;
-      box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+      box-shadow: 0 4px 20px rgba(0,0,0,0.6), 0 0 15px rgba(26,100,150,0.4);
     }
-    h1, h2 {
-      border-bottom: 1px solid #ddd;
+    h1 {
+      border-bottom: 1px solid #2a4a7f;
       padding-bottom: 6px;
-      color: #2d3748;
+      color: #f0d060;
+      text-shadow: 0 0 18px rgba(240,208,96,0.4);
     }
-    a {
-      color: #fbbf24;
-      text-decoration: none;
+    h2 {
+      border-bottom: 1px solid #1e3a6a;
+      padding-bottom: 6px;
+      color: #7ec8e3;
     }
-    a:hover {
-      color: #f87171;
-    }
+    a { color: #f0d060; text-decoration: none; }
+    a:hover { color: #ffe99a; text-shadow: 0 0 8px rgba(240,208,96,0.6); }
+    ul { padding-left: 20px; }
+    li { margin-bottom: 6px; }
   </style>
 </head>
-
 <body>
-
   <div class="center">
     <img src="Profile.jpg" alt="Professional Picture of Kayden Cadas">
     <h1>Kayden Cadas</h1>
     <p>Computer Science Student | Elizabeth City State University</p>
   </div>
-
   <h2>Resume</h2>
-  <p>
-    <a href="Resume.pdf" target="_blank">Download My Resume (PDF)</a>
-  </p>
-
+  <p><a href="Resume.pdf" target="_blank">Download My Resume (PDF)</a></p>
   <h2>Personal Statement</h2>
-  <p>
-    I'm a computer science student interested in software development, data, and building
-    technology that actually solves problems. I've worked with Python, Java, and web tools,
-    and I enjoy learning new skills by jumping into real projects. My background includes
-    leadership through sports, volunteer work, and hands-on coursework in programming and
-    engineering ethics. I'm focused on growing as a developer and preparing for internships.
-  </p>
-
+  <p>I'm a computer science student interested in software development, data, and building
+  technology that actually solves problems. I've worked with Python, Java, and web tools,
+  and I enjoy learning new skills by jumping into real projects. My background includes
+  leadership through sports, volunteer work, and hands-on coursework in programming and
+  engineering ethics. I'm focused on growing as a developer and preparing for internships.</p>
   <h2>Professional Links</h2>
   <ul>
     <li><a href="https://www.linkedin.com/in/kayden-faustin-cadas" target="_blank">LinkedIn</a></li>
     <li><a href="https://github.com/Soual-Spec" target="_blank">GitHub</a></li>
   </ul>
-
 </body>
 </html>
